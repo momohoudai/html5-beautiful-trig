@@ -1,4 +1,4 @@
-# html5-beauty-trig
+# html5-beautiful-trig
 
 
 
