@@ -4,7 +4,7 @@
 
 Based on the numberphile video here: https://www.youtube.com/watch?v=snHKEpCv0Hk
 
-Hosted here: http://momodevelop.github.io/html5-beautiful-trig/
+Hosted here: http://momohoudai.github.io/html5-beautiful-trig/
 
 The colored circles are not moving in a circle. 
 All of them are actually moving in a line. 
